@@ -1,0 +1,47 @@
+X605:
+  DeviceType: tablet
+  GridUnit: 13
+  WebkitDpr: 1.3
+  PrimaryOrientation: InvertedLandscape
+  SupportedOrientations:
+    - Portrait
+    - Landscape
+    - InvertedLandscape
+    - InvertedPortrait
+  MirAndroidPlatformClientEglFlush:
+    - "!/usr/bin/unity8,!/usr/bin/lomiri,all"
+  MirAndroidPlatformServerEglSync: False
+  MirAndroidPlatformServerPartialUpdates: True
+  VibrateDurationExtraMs: 20
+
+X605L:
+  DeviceType: tablet
+  GridUnit: 13
+  WebkitDpr: 1.3
+  PrimaryOrientation: InvertedLandscape
+  SupportedOrientations:
+    - Portrait
+    - Landscape
+    - InvertedLandscape
+    - InvertedPortrait
+  MirAndroidPlatformClientEglFlush:
+    - "!/usr/bin/unity8,!/usr/bin/lomiri,all"
+  MirAndroidPlatformServerEglSync: False
+  MirAndroidPlatformServerPartialUpdates: True
+  VibrateDurationExtraMs: 20
+
+X605F:
+  DeviceType: tablet
+  GridUnit: 13
+  WebkitDpr: 1.3
+  PrimaryOrientation: InvertedLandscape
+  SupportedOrientations:
+    - Portrait
+    - Landscape
+    - InvertedLandscape
+    - InvertedPortrait
+  MirAndroidPlatformClientEglFlush:
+    - "!/usr/bin/unity8,!/usr/bin/lomiri,all"
+  MirAndroidPlatformServerEglSync: False
+  MirAndroidPlatformServerPartialUpdates: True
+  VibrateDurationExtraMs: 20
